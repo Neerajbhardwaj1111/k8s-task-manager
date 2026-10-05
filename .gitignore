@@ -13,4 +13,5 @@ postgres_data/
 .idea/
 .vscode/
 
-.DS_Storek8s/secret.yaml
+.DS_Store
+k8s/secret.yaml

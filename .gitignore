@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+
+.venv/
+venv/
+
+.env
+
+.pytest_cache/
+
+postgres_data/
+
+.idea/
+.vscode/
+
+.DS_Storek8s/secret.yaml
